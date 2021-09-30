@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chavva Teja Venkata Ratna Sai Kumar</h1>
 <h3 align="center">I am much interested in Data science and Machine Learning fields.</h3>
 
+-  🔭 I’m currently working as Data scientist trainee and intern at ShapeAI
+
 - 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **Deployment of models over various clouds, Data Structures and Algorithms**
