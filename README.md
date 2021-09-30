@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/teja venkata chavva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja venkata chavva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Teja Venkata Chavva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja venkata chavva" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/teja_289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="teja_289" height="30" width="40" /></a>
 </p>
 
