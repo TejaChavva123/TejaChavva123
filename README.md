@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chavva Teja Venkata Ratna Sai Kumar</h1>
 <h3 align="center">I am much interested in Data science and Machine Learning fields.</h3>
 
+-  I am currently pursing my B.Tech in Electronics and Communication Engineering at **Visveswaraya National Institute of Technology,Nagpur**.
+
 -  🔭 I’m currently working as Data scientist trainee and intern at ShapeAI
 
 - 🔭 I’m currently working on **Data Science Projects**
@@ -9,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TejaChavva123?tab=repositorie](https://github.com/TejaChavva123?tab=repositorie)
+- 👨‍💻 All of my projects are available at [https://github.com/TejaChavva123?tab=repositories](https://github.com/TejaChavva123?tab=repositories)
 
 - 📫 How to reach me **chavvateja123@gmail.com**
 
