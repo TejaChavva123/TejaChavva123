@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **chavvateja123@gmail.com**
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejaChavva123&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/teja-venkata-chavva-544833212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja venkata chavva" height="30" width="40" /></a>
