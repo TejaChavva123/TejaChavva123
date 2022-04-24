@@ -3,13 +3,13 @@
 
 -  I am currently pursing my B.Tech in Electronics and Communication Engineering at **Visveswaraya National Institute of Technology,Nagpur**.
 
--  🔭 I’m currently working as Data scientist trainee and intern at ShapeAI
+-  🔭 I’m currently working as Software Engineer Intern at Vitavings
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Deployment of models over various clouds, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Deployment of models over various clouds, ReactJS, Django**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejaChavva123?tab=repositories](https://github.com/TejaChavva123?tab=repositories)
 
