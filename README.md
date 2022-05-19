@@ -17,7 +17,7 @@
 
 
 ### Viewed by:
-![](https://komarev.com/ghpvc/?username=pyndasaivamsi&color=red)
+![](https://komarev.com/ghpvc/?username=TejaChavva123&color=red)
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejaChavva123&theme=radical)
