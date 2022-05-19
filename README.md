@@ -16,6 +16,10 @@
 - 📫 How to reach me **chavvateja123@gmail.com**
 
 
+### Viewed by:
+![](https://komarev.com/ghpvc/?username=pyndasaivamsi&color=red)
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejaChavva123&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
