@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chavva Teja Venkata Ratna Sai Kumar</h1>
-<h3 align="center">I am much interested in Data science and Machine Learning fields.</h3>
+<h3 align="center">I am much interested in Data Science and Machine Learning fields.</h3>
 
--  I am currently pursing my B.Tech in Electronics and Communication Engineering at **Visveswaraya National Institute of Technology,Nagpur**.
+-  I am currently pursuing my B. Tech in Electronics and Communication Engineering at **Visveswaraya National Institute of Technology, Nagpur**.
 
--  🔭 I’m currently working as Software Engineer Intern at Vitavings
+- 🔭 I’m currently working on a **Deep Learning Project based on Medical Science**
 
-- 🔭 I’m currently working on **Data Science Projects**
-
-- 🌱 I’m currently learning **Deployment of models over various clouds, ReactJS, Django**
-
+- 🌱 I’m currently learning **Object Detection algorithms**
+- 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejaChavva123?tab=repositories](https://github.com/TejaChavva123?tab=repositories)
