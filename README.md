@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a **Deep Learning Project based on Medical Science**
 
 - 🌱 I’m currently learning **Object Detection algorithms**
-- 
+  
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejaChavva123?tab=repositories](https://github.com/TejaChavva123?tab=repositories)
