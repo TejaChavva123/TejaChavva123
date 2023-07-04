@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chavva Teja Venkata Ratna Sai Kumar</h1>
-<h3 align="center">I am much interested in Data Science and Machine Learning fields.</h3>
+<h3 align="center">I am interested in Data Science and Web Development based projects.</h3>
 
 -  I am currently pursuing my B. Tech in Electronics and Communication Engineering at **Visveswaraya National Institute of Technology, Nagpur**.
 
